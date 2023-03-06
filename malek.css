@@ -1,0 +1,33 @@
+h1{
+    border:10px solid rgb(83, 81, 78);
+    padding:65px;
+    margin:66px;
+    border-radius:67px;
+}
+h1:hover{
+    color:blue;
+    background-color:blanchedalmond;
+}
+img{
+
+    height: 630px;
+}
+body{
+
+background-image: url(https://img.phonandroid.com/2021/04/avengers-infinity-war.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+color: rgb(255, 255, 255);
+
+
+}
+
+
+
+
+
+
+
+
+
+
